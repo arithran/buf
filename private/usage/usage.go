@@ -14,6 +14,7 @@
 
 package usage
 
+/*
 import (
 	"errors"
 	"fmt"
@@ -45,3 +46,4 @@ func check() error {
 	}
 	return nil
 }
+*/
