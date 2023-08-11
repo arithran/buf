@@ -1,4 +1,4 @@
-module github.com/bufbuild/buf
+module github.com/arithran/buf
 
 go 1.19
 
