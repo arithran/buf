@@ -74,3 +74,5 @@ require (
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 )
+
+replace github.com/bufbuild/buf => .
